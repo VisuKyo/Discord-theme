@@ -4792,11 +4792,6 @@ Status picker by URI -> https://cmpdc.github.io/bdtf/themes/FullScreenStatusPick
     font-size: 0;
   }
   
-  .message-group .message .markup-2BOw-j a[href="https://discord.gg/kWRYPrq"]:after , .markup-2BOw-j > a[href="https://discord.gg/kWRYPrq"]:after {
-    content: "NFLD99s Support Server";
-    color:var(--Main-Colour);
-    font-size: 15px;
-  }
   
   #app-mount > div:nth-child(5) > div.modal-1UGdnR > div > div > div > div > div > div.inviteTitle-2yNtkC,.keyboard-shortcuts-modal .modal-title{
     color: var(--Main-Colour);
@@ -8960,12 +8955,6 @@ Status picker by URI -> https://cmpdc.github.io/bdtf/themes/FullScreenStatusPick
   }
   
   .theme-dark .text-GwUZgS {
-    font-size: 15px;
-  }
-  
-  .theme-dark .text-GwUZgS:after {
-    content: " NFLD99.com/Discord";
-    color:var(--Main-Colour);
     font-size: 15px;
   }
   
